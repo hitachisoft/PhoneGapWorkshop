@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <widget xmlns       = "http://www.w3.org/ns/widgets"
         xmlns:gap   = "http://phonegap.com/ns/1.0"
-        id          = "org.coenraets.employeedirectory"
+        id          = "com.hitachisolutions-eu.employeedirectory"
         versionCode = "10"
         version     = "1.1.0">
 
@@ -11,8 +11,8 @@
 	A simple employee directory application
   </description>
 
-  <author href="http://coenraets.org" email="ccoenraets@gmail.com">
-	Christophe Coenraets
+  <author href="http://www.hitachisolutions-eu.com" email="d-morris@hitachisolutions-eu.com">
+	Darryl Morris
   </author>
 
   <feature name="http://api.phonegap.com/1.0/camera"/>
